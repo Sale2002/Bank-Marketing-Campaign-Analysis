@@ -3,5 +3,5 @@ This is my final project for the course; while it may not be useful, it still t
 1. The customer factor: How a current customer can become a future one.
 2. Call factor - how to make calls to get more people to sign up for term deposits.
 3. Additional considerations - a few additional elements contribute to a rise in clients.
-4. Macro factors - Effects of macro factors on consumer growth
+4. Macro factors - Effects of macro factors on consumer growth.
 Finally, I use slides to communicate insights and present.
